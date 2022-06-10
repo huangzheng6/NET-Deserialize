@@ -27,13 +27,4 @@
 + [探索基于.NET下实现一句话木马之asmx篇](https://www.anquanke.com/post/id/152238)
 + [探索基于.NET下实现一句话木马之SVC篇](https://www.anquanke.com/post/id/153095)
 
-
-.Net安全矩阵公众号
-
-![](gzh.jpg)
-
-.Net安全交流加作者微信
-
-![](media/01.png)
-
 后续会持续更新.net trick
